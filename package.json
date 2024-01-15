@@ -1,5 +1,5 @@
 {
-  "name": "stargate",
+  "name": "@cosmVue/stargate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmVue/stargate"
+  },
+  "bugs": {
+    "url": "https://github.com/cosmVue/stargate/issues"
+  },
+  "homepage": "https://github.com/cosmVue/stargate",
 }
